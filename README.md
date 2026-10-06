@@ -2,7 +2,7 @@
 
 Estudiante de 2º de DAM orientado al desarrollo backend con Java (Spring Boot) y C#/.NET.
 
-   📄 **[Descargar CV en PDF](CV_Mario_Llorente.pdf)**
+   📄 **[Descargar CV en PDF](CV_Mario_LLorente.pdf)**
 
 ## Contacto
 - ✉️ mariollorentedelarosa@gmail.com
